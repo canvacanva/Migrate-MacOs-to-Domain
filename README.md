@@ -1,7 +1,8 @@
 # Migrate-MacOs-to-Domain
 
 ### Join Domain
-Copy all files in a USb key or root
+Copy all files in a USB key or root drive.
+
 Change with desidered Mac machine name
 ```
 sudo su
