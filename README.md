@@ -3,7 +3,7 @@
 ### Join Domain
 Copy all files in a USB key or root drive.
 
-Change with desidered Mac machine name
+edit "MBP-Canva" with new Active Directory name for MacOS
 ```
 sudo su
 sh 1_join_ad.sh MBP-Canva
